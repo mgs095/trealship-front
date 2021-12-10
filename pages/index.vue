@@ -1,7 +1,8 @@
 <template>
-  <div>
-    <h1>{{ title }}</h1>
-  </div>
+  <main>
+    <Hero />
+    <Action />
+  </main>
 </template>
 
 <script>
